@@ -110,3 +110,9 @@ li {
 .delete__button:hover {
     color: #ff0000;
 }
+
+@media screen and (max-width: 467px) {
+    .container {
+        max-width: 300px;
+    }
+}
